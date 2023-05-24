@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Anton <info@Direct-Dev-Ru>
-- 👀 I’m interested in web development, devops
-- 🌱 I’m currently learning k8s, go, javascript
+- 👋 Hi, I’m Anton <info@direct-dev.ru>
+- 👀 I’m interested in web development, devops.
+- 🌱 I’m currently learning k8s, go, javascript.
 - 💞️ I’m looking to collaborate on ... I dont know yet ...
 - 📫 How to reach me ... my email is info@direct-dev.ru
 
