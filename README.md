@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development, devops.
 - 🌱 I’m currently learning k8s, go, javascript.
 - 💞️ I’m looking to collaborate on ... I dont know yet ...
-- 📫 How to reach me ... my email is info@direct-dev.ru
+- 📫 How to reach me ... my email is info@direct-dev.ru. Also you can vizit https://main.direct-dev.ru ( but it under construction ...)
 
 <!---
 Direct-Dev-Ru/Direct-Dev-Ru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
